@@ -21,14 +21,14 @@ const BillHub = {
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bill716&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
 <details>
   <summary>
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bill716&theme=dracula">
+    <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=Bill716&theme=tokyonight">
   </p>
 </details>
