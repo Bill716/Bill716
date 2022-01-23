@@ -29,7 +29,7 @@ const BillHub = {
   </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <img src="https://MY-stat.billhub.repl.co">
+    <img src="https://my-stat.billhub.repl.co/">
   </p>
 </details>
   
