@@ -1,12 +1,12 @@
 ## Hi there 👋 <img align="right" style="border: 2px solid red; border-radius: 12px;" src="https://media.discordapp.net/attachments/836279726003322991/870031250516217866/abdala.png?width=712&height=702" width="180"/>
-I'm **Billhub**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past.
+I'm **Bill716**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const BillHub = {
+const Bill716 = {
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: 76,
     OpenedPullRequests: 54,
