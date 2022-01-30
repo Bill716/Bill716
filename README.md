@@ -27,6 +27,7 @@ const Bill716 = {
   <summary>
       Even more stats
   </summary>
+  <br>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
     <img src="https://cdn.discordapp.com/attachments/930109240104861696/934925641248301076/k1.png">
