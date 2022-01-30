@@ -30,9 +30,7 @@ const Bill716 = {
   <br>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <br>
     <img src="https://cdn.discordapp.com/attachments/930109240104861696/934925641248301076/k1.png">
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark">
   </p>
 </details>
