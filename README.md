@@ -19,6 +19,10 @@ const Bill716 = {
 }; //I'm a Epic Object, UwU
 ```
   
+<h2 align="center"> 💬 Contact Me 💬 </h2>
+
+![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png)
+  
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
@@ -38,9 +42,6 @@ const Bill716 = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark">
     </p>
 </details>
-
-<h2 align="center"> 💬 Contact Me 💬 </h2>
-![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png)
 
 <br>
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
