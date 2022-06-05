@@ -35,7 +35,7 @@ const Bill716 = {
         <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula" />
     </p>
     <p align="center">
-        <img src="https://cdn.discordapp.com/attachments/884455290316136539/937609476968697936/Screenshot_2022-01-23_22.34.39.png" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bill716&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
     </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark" />
