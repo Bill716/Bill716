@@ -42,6 +42,8 @@ const Bill716 = {
     </p>
 </details>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bill_hub)
+
 <br />
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th June 2022 using magic</i> ✨
