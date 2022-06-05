@@ -19,7 +19,8 @@ const Bill716 = {
 
 <h2 align="center">💬 Contact Me 💬</h2>
 
-![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png) - Discord: [Super Friends Zone#5448](https://discordapp.com/users/640512148786642947)
+![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png) 
+- Discord: [Super Friends Zone#5448](https://discordapp.com/users/640512148786642947)
 
 <h2 align="center">🚀 My Stats 🚀</h2>
 <p align="center">
