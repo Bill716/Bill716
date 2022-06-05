@@ -3,7 +3,19 @@ I'm **Bill716**, An developer from somewhere in the earth. I like to code web ap
 
 <h2 align="center">✨ About Me ✨</h2>
 
-```js const Bill716 = { FavouriteLanguage: "Javascript/Typescript", OpenedIssues: 76, OpenedPullRequests: 54, TotalCommits: 5496, Stars: 1536, Repositories: { Created: 76, Contributed: 50 }, }; //I'm a Epic Object, UwU ```
+```js
+const Bill716 = {
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: 76,
+    OpenedPullRequests: 54,
+    TotalCommits: 5496,
+    Stars: 1536,
+    Repositories: {
+       Created: 76,
+       Contributed: 50
+    },
+}; //I'm a Epic Object, UwU
+```
 
 <h2 align="center">💬 Contact Me 💬</h2>
 
