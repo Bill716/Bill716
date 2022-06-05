@@ -40,7 +40,8 @@ const Bill716 = {
 </details>
 
 <h2 align="center"> 💬 Contact Me 💬 </h2>
-![Discord Shield](https://discord.c99.nl/widget/theme-4/640512148786642947.png)
+## Shield
+![Discord Shield](https://discordapp.com/api/guilds/127498813903601664/widget.png?style=shield)
   
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th June 2022 using magic</i> ✨
