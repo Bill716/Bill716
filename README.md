@@ -21,7 +21,8 @@ const Bill716 = {
 
 ![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png) 
 - Discord: [Super Friends Zone#5448](https://discordapp.com/users/640512148786642947)
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bill_hub)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bill_hub)
 
 <h2 align="center">🚀 My Stats 🚀</h2>
 <p align="center">
