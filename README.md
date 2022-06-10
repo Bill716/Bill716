@@ -42,5 +42,10 @@ const Bill716 = {
 </details>
 
 <br />
+
+<h2 align="center">💰 Support Me 💰</h2>
+<a href="https://ko-fi.com/bill_hub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 10th June 2022 using magic</i> ✨
