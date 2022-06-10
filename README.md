@@ -20,9 +20,6 @@ const Bill716 = {
 <h2 align="center">💬 Contact Me 💬</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/640512148786642947)](https://discord.com/users/640512148786642947)
-- Discord: [Super Friends Zone#5448](https://discordapp.com/users/640512148786642947)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bill_hub)
 
 <h2 align="center">🚀 My Stats 🚀</h2>
 <p align="center">
