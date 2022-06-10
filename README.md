@@ -21,6 +21,13 @@ const Bill716 = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/640512148786642947)](https://discord.com/users/640512148786642947)
 
+<details>
+    <summary>
+        Support Me
+    </summary>
+    <a href="https://ko-fi.com/bill_hub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</details>
+
 <h2 align="center">🚀 My Stats 🚀</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight" />
@@ -42,10 +49,6 @@ const Bill716 = {
 </details>
 
 <br />
-
-<h2 align="center">💰 Support Me 💰</h2>
-<a href="https://ko-fi.com/bill_hub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 10th June 2022 using magic</i> ✨
