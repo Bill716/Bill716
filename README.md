@@ -20,8 +20,6 @@ const Bill716 = {
 <h2 align="center">💬 Contact Me 💬</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/640512148786642947)](https://discord.com/users/640512148786642947)
-
-![dacord](https://discord.c99.nl/widget/theme-4/640512148786642947.png) 
 - Discord: [Super Friends Zone#5448](https://discordapp.com/users/640512148786642947)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bill_hub)
@@ -48,4 +46,4 @@ const Bill716 = {
 
 <br />
 <!-- Last updated on Sat Jan 22 2022 18:16:37 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 6th June 2022 using magic</i> ✨
+<i>Last updated on 10th June 2022 using magic</i> ✨
