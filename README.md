@@ -14,7 +14,7 @@
          Created: 76,
          Contributed: 50
       },
-  }; //I'm a Epic Object, UwU
+  }; //I'm a Epic Object, LoL
   ```
   
   <h2 align="center">💬 Contact Me 💬</h2>
