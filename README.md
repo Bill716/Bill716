@@ -29,25 +29,5 @@
       <a href="https://ko-fi.com/bill_hub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </details>
   
-  <h2 align="center">🚀 My Stats 🚀</h2>
-  <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight" />
-  </p>
-  <details>
-      <summary>
-          Even more stats
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula" />
-      </p>
-      <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Bill716&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
-      </p>
-      <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark" />
-      </p>
-  </details>
-  
 <!-- Last updated on Fri Jun 10 2022 15:32:37 GMT+0200 (Central European Summer Time) ;-;-->
 <i>Last updated on 10th June 2022 using magic</i> ✨
